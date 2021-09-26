@@ -181,7 +181,7 @@ input[type=submit]:active{
 /*..........................HEADER........................*/
 /*.......................................................*/
 header {
-    background-image: linear-gradient(rgba(255, 253, 253, 0.7), rgba(250, 245, 245, 0.719)), url(img/portfolio-background1.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/portfolio-background1.jpeg);
     background-size: cover;
     background-position: center;
     height: 100vh; 
